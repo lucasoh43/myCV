@@ -1,12 +1,12 @@
 # **CURRICULUM VITAE**
-## **YOUR NAME**
-### **DEGREE**
+## **LUCAS OBERHOLTZER HESS**
+### **B.S. ENVIRONMENTAL SCIENCE - HYDROLOGY**
 [Website](LINK) | [Email](LINK)
 - AFFILIATIONS
 
 
 ## Education
-**Temple University | DEGREE**
+**Temple University | B.S. ENVIRONMENTAL SCIENCE - HYDROLOGY**
 
 *DATES*
 - IMPORTANT INFORMATION
@@ -22,10 +22,6 @@
 
 PROJECT DESCRIPTION
 
-
-## Oral / Poster Presentations																				
-
-“TALK TITLE” Presented at PLACE, MEETING, DATE.
 
 
 ## Work Experience																			
