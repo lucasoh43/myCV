@@ -11,7 +11,7 @@
 *Fall 2022 - Current*
 - Concentration in Hydrology
 - Coursework incudes Organic Chemistry, Groundwater Hydrology, Remote Sensing & GIS
-
+- 4.0 GPA
 
 
 
