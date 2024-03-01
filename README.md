@@ -1,6 +1,6 @@
 # **CURRICULUM VITAE**
 ## **Lucas Oberholtzer Hess**
-### **Undergrad ES Student**
+### **Undergraduate ES Student**
 [Email](mailto:tuq30255@temple.edu)
 
 
